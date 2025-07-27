@@ -1,7 +1,7 @@
 disable_windows_update
 
 This repo contains a little script to disable Windows Update.
-You know, sometimes you nerd just want to have a peacefully working machine to work with.
+You know, sometimes you nerd just want to have a fully working machine to work with.
 
 How it Works
 Taking 2 args 
